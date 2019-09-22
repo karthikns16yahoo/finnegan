@@ -3,4 +3,6 @@ class ProblemSolver
   end
   def solve_harder_problem
   end
+  def tough_problem
+  end
 end
